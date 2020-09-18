@@ -1,0 +1,17 @@
+You have logged in. Now let us find all the subscriptions to which you have access...
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "5130ecdf-3e08-4cbb-a490-4cdb6412cfd5",
+    "id": "26e1cfc4-443a-4b81-96ae-f915a736c065",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Kostenlose Testversion",
+    "state": "Enabled",
+    "tenantId": "5130ecdf-3e08-4cbb-a490-4cdb6412cfd5",
+    "user": {
+      "name": "alex.roth.azure@gmail.com",
+      "type": "user"
+    }
+  }
+]
